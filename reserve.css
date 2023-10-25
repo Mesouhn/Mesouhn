@@ -1,0 +1,40 @@
+body{
+
+
+    background-color: red;
+}
+.po{
+    padding-top: 30px;
+    margin-top: 2%;
+    background-color: white;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-bottom: 90px;
+    border-radius: 8px;
+    margin-bottom: 10%;
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular',
+     'Lucida Grande',
+     'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    text-align: center;
+    color: gold;
+    background-color: black;
+    padding: 10px;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 5px;
+}
+a{
+    text-decoration: none;
+}
+span :hover{
+    color: white;
+    background-color: gold;
+}
+a :hover{
+    color: blue;
+}
